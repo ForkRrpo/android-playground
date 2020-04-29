@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MergeAdapter Sample</string>
+    <string name="different_view_holders">Different ViewHolders</string>
+    <string name="same_view_holders">Same ViewHolders</string>
+    <string name="complex_view_holders">Complex ViewHolders</string>
 </resources>

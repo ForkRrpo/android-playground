@@ -10,10 +10,18 @@
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".DifferentViewHoldersActivity"
+            android:label="@string/different_view_holders" />
+        <activity
+            android:name=".SameViewHoldersActivity"
+            android:label="@string/same_view_holders" />
+        <activity
+            android:name=".ComplexViewHoldersActivity"
+            android:label="@string/complex_view_holders" />
     </application>
 
 </manifest>
