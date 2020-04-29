@@ -14,7 +14,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DifferentViewHoldersActivity"
+            android:name=".differentviewholders.DifferentViewHoldersActivity"
             android:label="@string/different_view_holders" />
         <activity
             android:name=".SameViewHoldersActivity"
